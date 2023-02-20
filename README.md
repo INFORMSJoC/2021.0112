@@ -19,8 +19,8 @@ To cite this software, please cite the [paper](https://doi.org/10.1287/ijoc.2021
 Below is the BibTex for citing this version of the code.
 
 ```
-@article{CacheTest,
-  author =        {liu2023ijoc},
+@article{liu2023taxi,
+  author =        {Liu, Junming and Teng, Mingfei and Chen Weiwei and Xiong, Hui},
   publisher =     {INFORMS Journal on Computing},
   title =         {A Cost-Effective Sequential Route Recommender System for Taxi Drivers},
   year =          {2023},
